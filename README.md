@@ -6,7 +6,7 @@ song | artist | Word/Music | Copyright | youtube link
  --- | ---    | ---        | ---       | ---
 Abanda ||||
 apologize||||
-By the time I get to Phoenix||||
+By the time I get to Phoenix||Jimmy Webb||
 Classical Gas||||
 Harper Valley P.T.A.|||| 
 Hey Jude |Beatles|||
@@ -17,5 +17,5 @@ Look to your Soul ||||
 Paper Cup ||||
 Slick ||||
 Stone Soul Picnic |||| 
-Turn Around, Look at Me ||Five O'Clock World||
+Turn Around, Look at Me ||||
 Windy  |||| <https://www.youtube.com/watch?v=1xfJpPNg2SM>
